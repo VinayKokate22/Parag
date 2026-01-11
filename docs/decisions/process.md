@@ -14,3 +14,7 @@ This project follow a pull request based development workflow
 - CI is required to pass before a PR can be merged.
 
 ?? dont know what this means -- Require approval of the most recent reviewable push
+
+# Do not allow bypassing the above settings
+
+- so that the rules also gets to be applied to the administrator
